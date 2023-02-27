@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "704457703486",
+    "project_id": "kultprosvet-7cc1d",
+    "storage_bucket": "kultprosvet-7cc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704457703486:android:7766443986e9a220c2516f",
+        "android_client_info": {
+          "package_name": "com.kultprosvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704457703486-4alroar700joea06tr43r84drm3mef5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kultprosvet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "704457703486-7db5a69lasn9o1s5kajl4sveuf93fkar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kultprosvet",
+            "certificate_hash": "4bbd0e68a7718da029f020bd9c39e883c393d287"
+          }
+        },
+        {
+          "client_id": "704457703486-0emfcu6o024ccecf1cgutphbk4tsu4nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5vwBfV4x9v060jX4Dq__emV-IsGA_f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704457703486-0emfcu6o024ccecf1cgutphbk4tsu4nk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704457703486-ph6bpngn737grbkieoodlvt5sg4eieat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Kultprosvet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
